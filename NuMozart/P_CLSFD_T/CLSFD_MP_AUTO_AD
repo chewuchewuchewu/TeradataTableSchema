@@ -1,0 +1,839 @@
+[
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"AD_ACTL_END_DT"
+,"columnType":"DATE"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 4
+,"columnid": 1032},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"AD_STATUS_ID"
+,"columnType":"SMALLINT"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2
+,"columnid": 1033},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"FIRST_INSERTION_SYSTEM_TYPE"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 100
+,"columnid": 1043},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"CLSFD_META_CATEG_ID"
+,"columnType":"SMALLINT"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2
+,"columnid": 1053},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"ASK_PRICE_LC"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 2
+,"columnlength": 8
+,"columnid": 1062},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"BID_CNT"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 0
+,"columnlength": 8
+,"columnid": 1107},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"ASQ_CNT"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 0
+,"columnlength": 8
+,"columnid": 1109},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"PHONE_CLICK_CNT"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 0
+,"columnlength": 8
+,"columnid": 1115},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"SRC_USER_ID"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 0
+,"columnlength": 8
+,"columnid": 1029},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"AD_ORGNL_START_DT"
+,"columnType":"DATE"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 4
+,"columnid": 1117},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"AD_START_DT"
+,"columnType":"DATE"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 4
+,"columnid": 1030},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"SRC_AD_ID"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 0
+,"columnlength": 8
+,"columnid": 1026},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"CLSFD_SITE_ID"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 4
+,"decimalfractionaldigits": 0
+,"columnlength": 2
+,"columnid": 1027},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"CLSFD_AD_ID"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 0
+,"columnlength": 8
+,"columnid": 1025},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"CLSFD_USER_ID"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 0
+,"columnlength": 8
+,"columnid": 1028},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"AD_SCHED_END_DT"
+,"columnType":"DATE"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 4
+,"columnid": 1031},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"AD_STATUS_DESC"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 100
+,"columnid": 1034},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"AD_RMVL_RSN"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 100
+,"columnid": 1035},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"AD_SRC"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 100
+,"columnid": 1036},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"AD_PLATFORM_ID"
+,"columnType":"SMALLINT"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2
+,"columnid": 1037},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"AD_PLATFORM_NAME"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 100
+,"columnid": 1038},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"DEVICE_ID"
+,"columnType":"BYTEINT"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 1
+,"columnid": 1039},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"DEVICE_NAME"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 64
+,"columnid": 1040},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"OS_NAME"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 100
+,"columnid": 1041},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"OS"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 100
+,"columnid": 1042},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"API_PARTNER_NAME"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 100
+,"columnid": 1044},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"API_PARTNER_ID"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 0
+,"columnlength": 8
+,"columnid": 1045},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"FIRST_INSERTION_TYPE"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 64
+,"columnid": 1046},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"FIRST_INSERTION_DURATION"
+,"columnType":"SMALLINT"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2
+,"columnid": 1047},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"FIRST_INSERTION_PAYMENT_METHOD"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 64
+,"columnid": 1048},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"LAST_INSERTION_PAYMENT_STATE"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 64
+,"columnid": 1049},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"INSERTION_FEE"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 2
+,"columnlength": 8
+,"columnid": 1050},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"DISCOUNT_AMOUNT"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 2
+,"columnlength": 8
+,"columnid": 1051},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"RENEWALS_COUNT"
+,"columnType":"SMALLINT"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2
+,"columnid": 1052},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"CLSFD_META_CATEG_NAME"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 512
+,"columnid": 1054},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"CLSFD_LVL2_CATEG_ID"
+,"columnType":"SMALLINT"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2
+,"columnid": 1055},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"CLSFD_LVL2_CATEG_NAME"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 512
+,"columnid": 1056},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"PHOTO_CNT"
+,"columnType":"BYTEINT"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 1
+,"columnid": 1057},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"SYI_LINK_YN"
+,"columnType":"CHARACTER"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 1
+,"columnid": 1058},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"SYI_TOPAD_YN"
+,"columnType":"CHARACTER"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 1
+,"columnid": 1059},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"SYI_UPSTAY_YN"
+,"columnType":"CHARACTER"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 1
+,"columnid": 1060},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"SYI_ETALAGE_YN"
+,"columnType":"CHARACTER"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 1
+,"columnid": 1061},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"ASK_PRICE_TYPE_DESC"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 256
+,"columnid": 1063},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"BID_ENABLE_YN"
+,"columnType":"CHARACTER"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 1
+,"columnid": 1064},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"ZIP6"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1065},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"MODEL"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1066},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"ORGNL_PRICE"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1067},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"LICENSEPLATE"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1068},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"NAP_YN"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1069},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"BRAND"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1070},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"MILEAGE"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1071},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"BODYWORK"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1072},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"ENERGY_LBL"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1073},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"OWNER_from_DT"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1074},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"OWNERS_N"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1075},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"WARRANTY_TYPE"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1076},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"EMISSION"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1077},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"TRANSMISSION"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1078},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"FUEL_TYPE"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1079},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"APK_DT"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1080},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"IMPORT_YN"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1081},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"VEHICLE_CLASSE"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1082},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"BUILD_YR"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1083},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"COLOR"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1084},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"CAR_TYPE"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1085},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"BOVAG_WARRANT_YN"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1086},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"RECORD_NL_DT"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1087},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"UPCALL_CNT"
+,"columnType":"SMALLINT"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2
+,"columnid": 1088},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"UPCALL_FEE"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 2
+,"columnlength": 8
+,"columnid": 1089},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"TOP_AD_CNT"
+,"columnType":"SMALLINT"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2
+,"columnid": 1090},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"TOP_AD_FEE"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 2
+,"columnlength": 8
+,"columnid": 1091},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"UP_STAY_CNT"
+,"columnType":"SMALLINT"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2
+,"columnid": 1092},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"UP_STAY_FEE"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 2
+,"columnlength": 8
+,"columnid": 1093},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"PAID_LINK_CNT"
+,"columnType":"SMALLINT"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2
+,"columnid": 1094},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"PAID_LINK_FEE"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 2
+,"columnlength": 8
+,"columnid": 1095},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"ETALAGE_CNT"
+,"columnType":"SMALLINT"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2
+,"columnid": 1096},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"ETALAGE_FEE"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 2
+,"columnlength": 8
+,"columnid": 1097},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"SNPPT_CNT"
+,"columnType":"SMALLINT"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2
+,"columnid": 1098},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"SNPPT_FEE"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 2
+,"columnlength": 8
+,"columnid": 1099},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"VIDEO_CNT"
+,"columnType":"SMALLINT"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2
+,"columnid": 1100},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"VIDEO_FEE"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 2
+,"columnlength": 8
+,"columnid": 1101},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"STICK_CNT"
+,"columnType":"SMALLINT"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2
+,"columnid": 1102},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"STICK_FEE"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 2
+,"columnlength": 8
+,"columnid": 1103},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"FTR_CNT"
+,"columnType":"SMALLINT"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2
+,"columnid": 1104},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"FTR_FEE"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 2
+,"columnlength": 8
+,"columnid": 1105},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"VIEW_AD_CNT"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 0
+,"columnlength": 8
+,"columnid": 1106},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"URL_CLICK_COUNT"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 0
+,"columnlength": 8
+,"columnid": 1108},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"ABQ_CNT"
+,"columnType":"DECIMAL"
+,"decimaltotaldigits": 18
+,"decimalfractionaldigits": 0
+,"columnlength": 8
+,"columnid": 1110},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"USER_ZIP"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 64
+,"columnid": 1111},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"EMAIL"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 64
+,"columnid": 1112},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"NAP_NEW_YN"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1113},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"CAR_ORIGINAL_CONSUMER_PRICE"
+,"columnType":"VARCHAR"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 2000
+,"columnid": 1114},
+{"platform":"numozart"
+,"databasename":"P_CLSFD_T"
+,"tablename":"CLSFD_MP_AUTO_AD"
+,"columnname":"has_video"
+,"columnType":"CHARACTER"
+,"decimaltotaldigits": 0
+,"decimalfractionaldigits": 0
+,"columnlength": 1
+,"columnid": 1116}
+]
